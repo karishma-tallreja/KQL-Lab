@@ -44,7 +44,7 @@
 
 ## 🖼️ Screenshots
 
-### 1. Disabling Lucene to use KQL in Kibana  
+### 1. KQL Tab Selection in Kibana Interface
 <img src="https://i.imgur.com/xI8yUga.png" alt="Disabling Lucene to use KQL" width="700"/>
 
 ### 2. Exploring field values in left panel (Source_Country)  
